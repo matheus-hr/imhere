@@ -4,9 +4,7 @@ Modulo 2 - Fundamentos
 
 Contendo os seguintes conteudos:
 
-*Utilização inicial de compotentes básicos e componentes de interface de usuario
- 
-*Estilização de componentes usando StyleSheets
+*Utilização inicial de compotentes básicos e componentes de interface de usuario *Estilização de componentes usando StyleSheets
  
 *Entendimento da densidade de pixels
  
