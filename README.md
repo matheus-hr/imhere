@@ -28,3 +28,10 @@ Contendo os seguintes conteudos:
 ### Conteudos do Modulo 2 - Fundamentos
 
 *  https://github.com/matheus-hr/imhere/tree/2-Fundamentos
+<br>
+
+### Imagens finais do projeto
+<br>
+
+![imagem_2022-11-03_165546703-PhotoRoom](https://user-images.githubusercontent.com/78974230/199821385-cfb1b166-c1fd-406e-8cdd-7be9180aa80e.png)
+
