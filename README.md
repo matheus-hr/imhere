@@ -1,12 +1,15 @@
-# imhere - Projeto do Curso ignite da Rocketseat
+# 🚀 imhere - Projeto do Curso ignite da Rocketseat
 
 ### Modulo 3 - Finalizando o App
 
-### Imagens finais do projeto
+Nesse desafio, foi desenvolvido uma aplicação de cadastro de eventos e inclusão de participantes
+
+## 🖼️ Imagens finais do projeto
 <br>
 
 ![imagem_2022-11-03_165546703-PhotoRoom](https://user-images.githubusercontent.com/78974230/199821385-cfb1b166-c1fd-406e-8cdd-7be9180aa80e.png)
 
+## 💻 Conceitos utilizados
 
 Contendo os seguintes conteudos:
 
@@ -34,4 +37,11 @@ Contendo os seguintes conteudos:
 ### Conteudos do Modulo 2 - Fundamentos
 
 *  https://github.com/matheus-hr/imhere/tree/2-Fundamentos
-<br>
+
+## ⚙️ Como utilizar este projeto?
+
+Para executar o projeto é necessario ter o node instalado e o ambiente android configurado.
+<br/>
+O projeto foi feito utilizando expo.
+<br/>
+<br/>
